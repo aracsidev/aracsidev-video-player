@@ -1,6 +1,6 @@
 {
   "name": "@aracsidev/video-player",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "description": "This is a video player react component I made as a portfolio project.",
   "main": "./build/index.js",
